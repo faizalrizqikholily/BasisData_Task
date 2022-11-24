@@ -1,0 +1,66 @@
+.table-head {
+    background-color: #8255ff;
+    color: beige;
+}
+
+#title {
+    text-align: center;
+    color: #8255ff;
+    font-size: 300%;
+    font-weight: bold;
+}
+
+#toform{
+    text-align: center;;
+    color: red;
+}
+
+#form {
+    background-color: #8255ff;
+}
+
+#form-header {
+    color: azure;
+    text-align: center;
+}
+
+label {
+    color: aliceblue;
+    font-size: large;
+    font-weight: bold;
+}
+
+#form-btn {
+    border: solid;
+    padding: 5px;
+    width: 500px;
+    height: 50px;
+    border-radius: 60px;
+}
+
+#cancel-btn {
+    padding: 5px;
+    width: 100px;
+    height: 50px;
+    border-radius: 60px;
+    background-color: rgb(255, 94, 94);
+    transition: 0.5s;
+}
+
+#cancel-btn:hover {
+    background-color: rgb(204, 75, 75);
+}
+
+#submit-btn {
+    padding: 5px;
+    width: 100px;
+    height: 50px;
+    border-radius: 60px;
+    color: black;
+    background-color: antiquewhite;
+    transition: 0.5s;
+}
+
+#submit-btn:hover {
+    background-color: rgb(214, 201, 183);
+}
